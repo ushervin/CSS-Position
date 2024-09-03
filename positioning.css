@@ -99,6 +99,9 @@ body + div {
     border-radius: 50px;
     height: 80px;
     width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     position: fixed;
     bottom: 5px;
     right: 10px;
@@ -120,3 +123,8 @@ section {
     margin: 50px;
      
 }
+
+
+
+
+
